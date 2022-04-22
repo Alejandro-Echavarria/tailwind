@@ -1,2 +1,3 @@
-# tailwind
-Este es un proyecto de seguimiento continuo para aprender tailwind
+## Curso de tailwind
+
+- mae-2022-04-22-work
